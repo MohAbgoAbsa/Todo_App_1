@@ -1,0 +1,20 @@
+{
+
+"apptitle":"To do List",
+"tasklist":"Task List",
+"setting":"Setting",
+"addnewtask":"Add New Task",
+"tasktitle":"Task Title",
+"taskdescription":"Task Description",
+"selectdate":"Select Date",
+"titleerrotmasege":"No Task Title Enter",
+"descriptionerrotmasege":"No Task Description Enter",
+"language":"Language",
+"mode":"Mode",
+"english":"English",
+"arabic":"Arabic",
+"light":"Light",
+"dark":"Dark"
+
+
+}
